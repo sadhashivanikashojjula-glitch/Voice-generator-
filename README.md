@@ -10,7 +10,7 @@
 
 Transform text into crisp .mp3 audio instantly using Google's TTS engine directly inside your interactive Colab workspace.
 
-⚡ <i> Quick Overview </i>
+⚡ <b> <i> Quick Overview </i> </b> 
 
 VoiceGen is a lightweight, interactive Python tool built for Google Colab and Jupyter environments. It converts custom text strings into high-quality speech files with real-time, in-notebook audio rendering.
 
