@@ -18,7 +18,10 @@ VoiceGen is a lightweight, interactive Python tool built for Google Colab and Ju
 
  <big>Features </big> 
 ⚡ <b>  Real-time Synthesis </b> : Converts dynamic user input directly to audio stream.
+
 🎵 <b> Native Playback </b> : Plays generated .mp3 tracks instantly via IPython.display.
+
 📁 <b> Auto-Export </b> : Saves output to local storage as voice.mp3.
+
 ☁️ <b> Zero Setup </b> : Runs entirely in Google Colab without complex local dependencies.
 
