@@ -27,3 +27,4 @@ VoiceGen is a lightweight, interactive Python tool built for Google Colab and Ju
 
 🛠️ <b> <big> Tech Stack </big> </b> 
 
+
